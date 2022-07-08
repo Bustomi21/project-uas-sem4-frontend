@@ -1,0 +1,32 @@
+.daftar_designer{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+}
+.designer {
+    width: 100%;
+    height: 20%;
+    background-color: #ffffff;
+}
+.designer img  {
+    width: 25%;
+}
+h4 {
+    margin-top: 20px;
+}
+
+.daftar.designer_2 {
+    background-color: white;
+    display: flex;
+}
+
+.daftar_designer .designer_2 .text {
+    width: 50%;
+    float: left;
+}
+
+
+.designer_2 img {
+    width: 24%;
+    float: right;
+}
